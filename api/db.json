@@ -1,0 +1,20 @@
+{
+  "streams": [
+    {
+      "title": "Stream 1",
+      "description": "Stream about nature",
+      "id": 1
+    },
+    {
+      "title": "Stream 2",
+      "description": "Pop music",
+      "id": 2
+    },
+    {
+      "title": "ADs",
+      "description": "ddasasdadsasd",
+      "userId": "114943784688276973537",
+      "id": 3
+    }
+  ]
+}
